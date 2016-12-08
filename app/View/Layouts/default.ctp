@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on PodSpace</h1>
+            <h1>This proves that our webhook really works!</h1>
           </hgroup>
 
 
